@@ -1,0 +1,6 @@
+flutter create --template skeleton --platforms android,ios listy 
+
+flutter pub add realm collection
+
+
+flutter pub run realm generate --watch
